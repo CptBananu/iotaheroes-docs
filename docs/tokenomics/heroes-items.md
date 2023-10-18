@@ -1,6 +1,6 @@
 ---
-title: Heroes and Items
-sidebar_label: Heroes and Items
+title: Heroes
+sidebar_label: Heroes
 sidebar_position: 2
 ---
 
