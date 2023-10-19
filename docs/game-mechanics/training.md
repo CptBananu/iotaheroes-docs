@@ -17,131 +17,99 @@ Training is crucial to prepare your heroes for tougher encounters.
 
 - Use gold from adventures to upgrade facilities and don't fall behind in leveling speed.
 
-  <table>
-	<tr>
-		<th>Facility</th>
-		<th>Upgrade Cost</th>
-	</tr>
-	<tr>
-		<td>Level 1</td>
-		<td>10 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 2</td>
-		<td>38 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 3</td>
-		<td>94 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 4</td>
-		<td>178 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 5</td>
-		<td>290 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 6</td>
-		<td>430 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 7</td>
-		<td>598 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 8</td>
-		<td>794 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 9</td>
-		<td>1,018 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 10</td>
-		<td>1,270 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 11</td>
-		<td>1,550 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 12</td>
-		<td>1,858 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 13</td>
-		<td>2,194 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 14</td>
-		<td>2,558 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 15</td>
-		<td>2,950 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 16</td>
-		<td>3,370 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 17</td>
-		<td>3,818 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 18</td>
-		<td>4,294 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 19</td>
-		<td>4,798 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 20</td>
-		<td>5,330 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 21</td>
-		<td>5,890 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 22</td>
-		<td>6,478 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 23</td>
-		<td>7,094 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 24</td>
-		<td>7,738 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 25</td>
-		<td>8,410 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 26</td>
-		<td>9,110 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 27</td>
-		<td>9,838 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 28</td>
-		<td>10,594 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 29</td>
-		<td>11,378 Gold</td>
-	</tr>
-	<tr>
-		<td>Level 30</td>
-		<td>12,190 Gold</td>
-	</tr>
+ <table>
+<thead>
+  <tr>
+    <th>Facility</th>
+    <th>Upgrade cost</th>
+    <th rowspan="11"></th>
+    <th>Facility</th>
+    <th>Upgrade cost</th>
+    <th rowspan="11"></th>
+    <th>Facility</th>
+    <th>Upgrade cost</th>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10 Gold</td>
+    <td>Level 11</td>
+    <td>1,550 Gold</td>
+    <td>Level 21</td>
+    <td>5,890 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>38 Gold</td>
+    <td>Level 12</td>
+    <td>1,858 Gold</td>
+    <td>Level 22</td>
+    <td>6,478 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>94 Gold</td>
+    <td>Level 13</td>
+    <td>2,194 Gold</td>
+    <td>Level 23</td>
+    <td>7,094 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 4</td>
+    <td>178 Gold</td>
+    <td>Level 14</td>
+    <td>2,558 Gold</td>
+    <td>Level 24</td>
+    <td>7,738 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 5</td>
+    <td>290 Gold</td>
+    <td>Level 15</td>
+    <td>2,950 Gold</td>
+    <td>Level 25</td>
+    <td>8,410 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 6</td>
+    <td>430 Gold</td>
+    <td>Level 16</td>
+    <td>3,370 Gold</td>
+    <td>Level 26</td>
+    <td>9,110 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 7</td>
+    <td>598 Gold</td>
+    <td>Level 17</td>
+    <td>3,818 Gold</td>
+    <td>Level 27</td>
+    <td>9,838 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 8</td>
+    <td>794 Gold</td>
+    <td>Level 18</td>
+    <td>4,294 Gold</td>
+    <td>Level 28</td>
+    <td>10,594 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 9</td>
+    <td>1,018 Gold</td>
+    <td>Level 19</td>
+    <td>4,798 Gold</td>
+    <td>Level 29</td>
+    <td>11,378 Gold</td>
+  </tr>
+  <tr>
+    <td>Level 10</td>
+    <td>1,270 Gold</td>
+    <td>Level 20</td>
+    <td>5,330 Gold</td>
+    <td>Level 30</td>
+    <td>12,190 Gold</td>
+  </tr>
+</thead>
 </table>
   
 ## Upgrading Heroes
