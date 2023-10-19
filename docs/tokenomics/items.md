@@ -6,13 +6,55 @@ sidebar_position: 5
 
 # Items
 
-Heroes and items are central assets in IOTA Heroes.
+Items fall into different categories and enable various game mechanics as well as increase your Heros power in battles.
 
-- Equip your heroes with items for adventures to increase their combat stats and in return your chances of winning.
-- Items can be lost during adventures due to the fragility attribute on them telling the chance of losing the item on an adventure.
-- Craft rings and necklaces by **Reforging** (link needed to separate site telling about recipe chances and how to increase them). This process uses 1 **Charcoal** for 50 Gold from the **General Store**
-- Craft Abilities in the form of Tablets, Scrolls or Tomes by **Researching** (link needed to separate site telling about diffferent tiers of abilities). This process uses 1 **Scripter's Kit** for 100 Gold from the **General Store**
-- Find everything else at the end of adventures (armor, weapons offhands, trash, dust, ...)
+## Trash items
+
+Trash items only have the single ingame purpose of being reforged into certain new item categories like rings, amulets and more.
+On trash items only the item level is relevant because this is the single stat that matters in **Reforging**.
+
+The correlated item for Reforging is Charcoal. One reforge attempt uses one **Charcoal**. It costs 50 Gold in the **General Store**.
+
+<br />(link needed to separate site about Reforging).
+
+## Dust
+
+Dust comes in three different colors, each having their own pool of possible Researching results.
+The more challenging an adventures is (higher level, higher difficulty), the more powerful the Dust can be that you get.
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Image</th>
+    <th>Item level</th>
+	</tr>
+	<tr>
+		<td>Dust of Illumination</td>
+		<td></td>
+    <td>6</td>
+	</tr>
+	<tr>
+		<td>Dust of Insight</td>
+		<td></td>
+    <td>12</td>
+	</tr>
+	<tr>
+		<td>Dust of Inspiration</td>
+		<td></td>
+    <td>21</td>
+	</tr>
+</table>
+
+The correlated item for Researching is **Scripter's Kit**. One research uses one **Scripter's Kit** which costs 100 Gold in the **General Store**.
+
+<br />(link needed to separate site about Researching).
+
+## Gear
+
+- Gear items can be found after succesfully beating the enemy at the end of an adventure. 
+- Fill your Heroes' equipment slots with items from your inventory to increase their combat stats and thus the chance of winning.
+- Gear can be lost during adventures due to the fragility attribute on it telling the chance of losing it.
+- Both above points also apply to foreign Heroes you rented for adventures. Their Hero but your items, loot and losses.
+
 - And of course the **Trading Post**, being a centerpiece of the players economy, is a good source for all different kinds of items .
 
 Template for ItemSets:
